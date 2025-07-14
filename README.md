@@ -2,6 +2,7 @@
 This repository contains three front-end projects built using HTML, CSS, and JavaScript. It covers practical concepts like responsive design, DOM manipulation, local storage, and dynamic filtering/sorting. 
 
 Projects Included
+
 1.Personal Portfolio Website:
 A responsive, multi-page portfolio to showcase your skills, projects, and contact information.
 Features:
