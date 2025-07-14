@@ -5,6 +5,7 @@ Projects Included
 
 1.Personal Portfolio Website:
 A responsive, multi-page portfolio to showcase your skills, projects, and contact information.
+
 Features:
 ⦁	About, Projects, and Contact sections
 ⦁	Responsive layout with animations
