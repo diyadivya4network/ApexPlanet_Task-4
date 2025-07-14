@@ -14,6 +14,7 @@ Features:
 
 ⦁	Navigation bar and optional theme toggle
 
+
 2.To-Do List App (with localStorage):
 A simple task manager that stores your to-dos in the browser.
 
@@ -24,6 +25,7 @@ Features:
 ⦁	Data persistence using localStorage
 
 ⦁	Optional: search, categories, due dates
+
 
 3.Product Listing Page:
 A dynamic product catalog with filtering and sorting options.
